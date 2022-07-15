@@ -1,0 +1,23 @@
+{
+  "greeting": "Nguyễn Thị",
+  "name": "Ngọc Diễm",
+  "greetingText": "Đừng có bất ngờ quá nha. Đợi 1 tí....",
+  "wishText": " ",
+  "imagePath": "img/demi.png",
+  "text1": "",
+  "textInChatBox": "Happy birthday to you! Chúc người chị, người quan trọng....",
+  "sendButtonLabel": "Gửi",
+  "text2": "Đó là điều con nghĩ con sẽ làm",
+  "text3": "Nhưng con đã dừng",
+  "text4": "Con nhận ra con cần làm gì đó",
+  "text4Adjective": "ĐẶC BIỆT",
+  "text5Entry": "Bởi vì,",
+  "text5Content": "Mẹ là một người cực kỳ đặc biệt",
+  "smiley": ":)",
+  "bigTextPart1": "Vì",
+  "bigTextPart2": "vậy",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Mẹ đã thấy bất ngờ chưa :))))",
+  "replayText": "Nếu thích, mẹ có thể replay nó nha.",
+  "outroSmiley": ":)"
+}
